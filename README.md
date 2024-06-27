@@ -1,6 +1,8 @@
 # my-first-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Это одна из первых работ на вью. Пока этот проект в разработке и тут далеко не весь функцианал имеется, однако я планирую его доделать.
+
+Ссылка на сбилденный проект: https://katysfreel.github.io/my-first-project/
 
 ## Recommended IDE Setup
 
